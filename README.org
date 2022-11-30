@@ -8,7 +8,7 @@
 
 * Cesiumdemo
 
-[[https://github.com/joinr/cesiumdemo][GitHub Repository]]
+[[https://github.com/fs-tom/tpvisdemo][GitHub Repository]]
 
 An exploration of the cesiumjs api from clojurescript.  Working prototype visualizing
 entities moving around, doing some realtime plotting with vega as well.  Evolved into a 
